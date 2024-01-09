@@ -73,7 +73,7 @@ GCP Companion Video (Coming Soon!)
 
 ### 4. Azure Hubs Community Edition Installation by [@vvdt](https://github.com/vvdt)
 
-Community Mamber Vincent van den Tol has released [instructions for installing Community Edition on Microsoft Azure](https://github.com/imedu-vr/hubs-docs/blob/main/azure_hubs_ce_installation.md), including persistent volumes, custom client deployment, and many helpful tips and tricks.
+Community Member Vincent van den Tol has released [instructions for installing Community Edition on Microsoft Azure](https://github.com/imedu-vr/hubs-docs/blob/main/azure_hubs_ce_installation.md), including persistent volumes, custom client deployment, and many helpful tips and tricks.
 
 ### 5. Import Assets from Hubs Cloud to CE by [chris-metabi](https://github.com/chris-metabi)
 
